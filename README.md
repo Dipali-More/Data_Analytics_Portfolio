@@ -11,5 +11,4 @@ In this project, I explored various tools of Tableau to create a dashboard for r
 * Final Dashboard is published on Tableau Public
 * Interactive [Dashboard](https://public.tableau.com/authoring/HOMEDEPOTSALESDASHBOARD/SALESDASHBOARD#1) live on my Tableau Public profile.
 ### Dashboard 
-
 ![Home Depot Sales Dashboard](https://github.com/Dipali-More/Data_Analytics_Portfolio/blob/main/Visuals/HomeDepot%20Sales%20Dashboard.png?raw=true)
