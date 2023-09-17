@@ -13,7 +13,7 @@ In this project, I explored various tools of Tableau to create a dashboard for r
 ### Dashboard 
 ![Home Depot Sales Dashboard](https://github.com/Dipali-More/Data_Analytics_Portfolio/blob/main/Visuals/HomeDepot%20Sales%20Dashboard.png?raw=true)
 
-## [Project 1: Uber Data Data Analysis Tableau Dashboard](https://github.com/deepali-more/Tableau-Projects.git)
+## [Project 2: Uber Data Data Analysis Tableau Dashboard](https://github.com/deepali-more/Tableau-Projects.git)
 ### Project Overview - 
 [Uber Data Analysis Project Layout](UberDA.txt) 
 ### Data Exploration
