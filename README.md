@@ -17,7 +17,8 @@ In this project, I explored various tools of Tableau to create a dashboard for r
 ### Project Overview - 
 [Uber Data Analysis Project Layout](UberDA.txt) 
 ### Data Exploration
-SQL File for Uber Data Analysis- [Here](https://github.com/Dipali-More/SQL_Files/blob/4f322175f439f6f4e7eca2f5660e55a00988e331/SQL%20UBER%20Data%20Analysis%20.sql)
+* Python File for Data Modelling, Data Analysis - [Here](Uber_Data_Analysis_Project.ipynb) 
+* SQL File for Uber Data Analysis- [Here](https://github.com/Dipali-More/SQL_Files/blob/4f322175f439f6f4e7eca2f5660e55a00988e331/SQL%20UBER%20Data%20Analysis%20.sql)
 ### Data Visualization
 * Interactive [Uber Dashboard](https://public.tableau.com/authoring/uberdashboard/UberDashboard#1) on my Tableau Public Platform
 
